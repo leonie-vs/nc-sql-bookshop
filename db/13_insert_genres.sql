@@ -12,3 +12,4 @@ VALUES
 ('Classics');
 
 SELECT * FROM genres;
+SELECT * FROM books;
